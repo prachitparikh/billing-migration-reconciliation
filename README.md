@@ -1,6 +1,6 @@
 # Northstar billing migration: data mapping and reconciliation
 
-[![tests](https://github.com/prachitqwer/billing-migration-reconciliation/actions/workflows/tests.yml/badge.svg)](https://github.com/prachitqwer/billing-migration-reconciliation/actions/workflows/tests.yml)
+[![tests](https://github.com/prachitparikh/billing-migration-reconciliation/actions/workflows/tests.yml/badge.svg)](https://github.com/prachitparikh/billing-migration-reconciliation/actions/workflows/tests.yml)
 ![Python 3.13](https://img.shields.io/badge/python-3.13-1F3A5F)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-1F3A5F)
 ![Licence: MIT](https://img.shields.io/badge/licence-MIT-1F3A5F)
@@ -109,7 +109,7 @@ A check that compares nothing reports NO DATA, not PASS. In mock 1 no credit not
 Needs Python 3.13 (any recent Python works if its SQLite is 3.44 or newer; the python.org builds are).
 
 ```bash
-git clone https://github.com/prachitqwer/billing-migration-reconciliation.git
+git clone https://github.com/prachitparikh/billing-migration-reconciliation.git
 cd billing-migration-reconciliation
 python -m pip install -r requirements.txt
 
