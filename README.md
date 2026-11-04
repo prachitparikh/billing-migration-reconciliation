@@ -14,7 +14,7 @@ This is the data workstream of a migration as a Technical BA would run it: profi
   <img alt="Reconciliation checks passed by level: mock 1 passed 13 of 36, mock 2 passed 33 of 37" src="docs/images/checks_by_level.png" width="760">
 </picture>
 
-**Live dashboard:** [Billing migration go/no-go on Tableau Public](https://public.tableau.com/app/profile/prachit.parikh/viz/BillingMigrationGoNo-GoReconciliationDashboardPrachitParikh/BillingMigrationGoNo-Go). Pass rates by level for both mocks, all 37 checks, the record bridge and the finance tie-out, built from the files in `results/`.
+**Live dashboard:** [Billing migration go/no-go on Tableau Public](https://public.tableau.com/app/profile/prachit.parikh/viz/BillingMigrationGoNo-GoReconciliationDashboardPrachitParikh/Dashboard1). Pass rates by level for both mocks, all 37 checks, the record bridge and the finance tie-out, built from the files in `results/`.
 
 ## At a glance
 
